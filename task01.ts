@@ -1,0 +1,1 @@
+//Develop a program that calculates and prints the sum of the first n even numbers using a for loop.
